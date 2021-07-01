@@ -4,6 +4,7 @@ function Invoke-AppPathBypass {
 Bypasses UAC by abusing the App Path key for control.exe
 Only tested on Windows 10
 Author: Matt Nelson (@enigma0x3)
+Source: https://github.com/enigma0x3/Misc-PowerShell-Stuff/blob/master/Invoke-AppPathBypass.ps1
 License: BSD 3-Clause
 Required Dependencies: None
 Optional Dependencies: None
